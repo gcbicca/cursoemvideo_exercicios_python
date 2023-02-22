@@ -13,3 +13,4 @@ nome
 idade
 retorna novo registro de "nome" adicionado.
 """
+# A RESOLUÇÃO DESSE EXERCICIO ESTÁ DENTRO DA PASTA MENU_DE_CADASTRO
